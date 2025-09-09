@@ -1,8 +1,8 @@
-# 1.2-Herencia-e-Interfaces-Nivel1
+# 1.1-Herencia-y-Polimorfismo-Nivel2
 
 ## 📄 Descripción – Enunciado del ejercicio
 
-Este proyecto consiste en practicar **herencia** e **interfaces** en Java mediante la creación de un sistema sencillo de telefonía:
+Este proyecto contiene la resolución del siguiente ejercicio de Java:
 
 ### Ejercicio
 1. Crear una clase `Phone` con los atributos `brand` y `model`, y un método `call(String number)`.  

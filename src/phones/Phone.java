@@ -1,12 +1,20 @@
 package phones;
 
 public abstract class Phone {
-    protected String brand;
-    protected String model;
+    private String brand;
+    private String model;
 
     public Phone(String brand, String model){
         this.brand = brand;
         this.model = model;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public String getModel() {
+        return model;
     }
 
     public void call(String phoneNumber){
